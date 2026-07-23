@@ -1,10 +1,8 @@
-# 🚖 Rapido Ride Booking Data Analytics Using SQL and Power BI
+# Rapido Ride Booking Data Analytics Using SQL and Power BI
 
 ## Project Overview
 
-This project analyzes Rapido ride booking data to uncover valuable business insights related to bookings, revenue, customer behavior, ride cancellations, payment methods, and vehicle performance.
-
-Using SQL for data analysis and Power BI for visualization, the project demonstrates an end-to-end analytics workflow that supports data-driven decision-making.
+This project analyzes Rapido ride booking data to uncover valuable business insights related to bookings, revenue, customer behavior, ride cancellations, payment methods, and vehicle performance.Using SQL for data analysis and Power BI for visualization, the project demonstrates an end-to-end analytics workflow that supports data-driven decision-making.
 
 ## Objectives
 
