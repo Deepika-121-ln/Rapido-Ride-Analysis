@@ -6,6 +6,7 @@ The project demonstrates the complete analytics workflow—from data preparation
 
 
 ## Objectives
+
 - Analyze ride booking trends.
 - Measure overall business performance.
 - Track booking completion and cancellation rates.
