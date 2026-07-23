@@ -83,7 +83,7 @@ The dataset contains ride booking information including:
 - **Customer Satisfaction:** Customer ratings remained positive across vehicle types, indicating a reliable and satisfactory ride experience.
 - **Peak Hours:** Ride demand increased during specific time periods, highlighting the importance of efficient driver allocation.
 
-## Conclusion
+## Conclusions
 
 The analysis reveals that operational efficiency can be improved by:
 
