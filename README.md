@@ -1,16 +1,13 @@
-# Rapido-Ride-Analysis
-Power BI dashboard and SQL analysis of Rapido ride booking data with business insights.
+# Rapido Ride Booking Data Analytics Using SQL and Power BI
 
-# 🚖 Rapido Ride Booking Data Analytics Using SQL and Power BI
-
-## 📖 Project Overview
+## Project Overview
 
 The objective of this project is to analyze Rapido's ride booking data and uncover key business insights related to bookings, revenue, customer behavior, ride cancellations, payment methods, and vehicle performance.
 
 The project demonstrates the complete analytics workflow—from data preparation and SQL analysis to building an interactive Power BI dashboard for decision-making.
 
 
-## 🎯 Objectives
+## Objectives
 
 - Analyze ride booking trends.
 - Measure overall business performance.
@@ -21,7 +18,7 @@ The project demonstrates the complete analytics workflow—from data preparation
 - Generate insights to support business decisions.
 
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -31,7 +28,7 @@ The project demonstrates the complete analytics workflow—from data preparation
 | 💻 Git & GitHub | Version Control & Portfolio |
 
 
-# 📂 Dataset
+# Dataset
 
 The dataset contains ride booking information including:
 
@@ -50,7 +47,7 @@ The dataset contains ride booking information including:
 
 
 
-# 🗄️ Business Problems
+# Business Problems
 
 ### Booking Analysis
 
@@ -75,7 +72,7 @@ The dataset contains ride booking information including:
 - ✔️ What is the most common reason for incomplete rides?
 
 
-# 💡 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -87,7 +84,7 @@ The dataset contains ride booking information including:
 - Analytical Thinking
 - Business Insight Generation
 
-## 🔍 Findings
+## Findings
 
 - **Booking Trends:** Most ride bookings were completed successfully, while cancelled and incomplete rides highlighted opportunities to improve service efficiency.
 - **Revenue Growth:** Both Bike and Auto services contributed significantly to overall revenue, reflecting consistent business performance across vehicle categories.
@@ -95,7 +92,7 @@ The dataset contains ride booking information including:
 - **Peak Hours:** Ride demand was higher during specific time periods, emphasizing the importance of efficient driver allocation to meet customer demand.
 
 
-## 📌 Conclusion
+## Conclusion
 
 The analysis reveals that operational efficiency can be improved by:
 - **Reducing Ride Cancellations:** Improving driver availability and minimizing incomplete bookings.
