@@ -1,6 +1,7 @@
 # Rapido Ride Booking Data Analytics Using SQL and Power BI
 
 ## Project Overview
+
 The objective of this project is to analyze Rapido's ride booking data and uncover key business insights related to bookings, revenue, customer behavior, ride cancellations, payment methods, and vehicle performance.
 The project demonstrates the complete analytics workflow—from data preparation and SQL analysis to building an interactive Power BI dashboard for decision-making.
 
